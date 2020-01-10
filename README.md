@@ -42,4 +42,5 @@
 - **[Тимлид-чейнджер](https://github.com/best-doctor/grades/blob/master/grades/teamlead_changer.md)**
   – лид, который строит процессы, которые не завязаны на него
   (как человека, а не роль).
-- **Сеньор** – приходит и решает любую техническую проблему.
+- **[Сеньор](https://github.com/best-doctor/grades/blob/master/grades/dev_senior.md)**
+  – приходит и решает любую техническую проблему.
