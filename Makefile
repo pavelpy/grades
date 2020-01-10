@@ -1,3 +1,3 @@
 check:
 	mdl README.md grades/*
-	rozental .
+	rozental --reorder_vocabulary .
